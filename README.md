@@ -40,4 +40,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-[@0x06060606](https://twitter.com/rootfs "My Twitter")
+[@rootfs](https://twitter.com/rootfs "My Twitter")
