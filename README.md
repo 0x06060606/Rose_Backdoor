@@ -1,7 +1,10 @@
 ![ROSE](https://github.com/0x06060606/Rose_Backdoor/raw/master/rose_backdoor.png "ROSE")
 
 ### Features
-* NULL
+* Secured RCE over PHP and More Server Side Languages with a Python Client
+
+### Coming Soon
+* ASP.NET, Python, Java, C#, and More Payloads.
 
 ----
 ```
