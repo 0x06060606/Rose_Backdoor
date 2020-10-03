@@ -1,4 +1,4 @@
-![ROSE](https://github.com/0x06060606/Rose_Backdoor/raw/master/rose_backdoor.png "ROSE")
+![ROSE_2.0](https://github.com/0x06060606/Rose_Backdoor/raw/master/rose_backdoor.png "ROSE")
 
 ### Features
 * Secured RCE over PHP and More Server Side Languages with a Python Client
