@@ -1,4 +1,5 @@
 import requests, sys, random, string, urllib.parse
+# ADD INTRO
 try:
     payload = sys.argv[1]
 except IndexError:
